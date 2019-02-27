@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 3 (Decisions)\GuessingGameZachK\GuessingGameZachK\bin\Debug\GuessingGameZachK.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 3 (Decisions)\GuessingGameZachK\GuessingGameZachK\bin\Debug\GuessingGameZachK.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 3 (Decisions)\GuessingGameZachK\GuessingGameZachK\bin\Debug\GuessingGameZachK.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 3 (Decisions)\GuessingGameZachK\GuessingGameZachK\obj\Debug\GuessingGameZachK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 3 (Decisions)\GuessingGameZachK\GuessingGameZachK\obj\Debug\GuessingGameZachK.frmGuessingGame.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 3 (Decisions)\GuessingGameZachK\GuessingGameZachK\obj\Debug\GuessingGameZachK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 3 (Decisions)\GuessingGameZachK\GuessingGameZachK\obj\Debug\GuessingGameZachK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 3 (Decisions)\GuessingGameZachK\GuessingGameZachK\obj\Debug\GuessingGameZachK.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Kranabetter, Zachary (s254258)\Unit 3 (Decisions)\GuessingGameZachK\GuessingGameZachK\obj\Debug\GuessingGameZachK.pdb
