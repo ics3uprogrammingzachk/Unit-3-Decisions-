@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\ChocolateBoxesZachK\ChocolateBoxesZachK\bin\Debug\ChocolateBoxesZachK.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\ChocolateBoxesZachK\ChocolateBoxesZachK\bin\Debug\ChocolateBoxesZachK.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\ChocolateBoxesZachK\ChocolateBoxesZachK\bin\Debug\ChocolateBoxesZachK.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\ChocolateBoxesZachK\ChocolateBoxesZachK\obj\Debug\ChocolateBoxesZachK.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\ChocolateBoxesZachK\ChocolateBoxesZachK\obj\Debug\ChocolateBoxesZachK.ChocolateBoxesForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\ChocolateBoxesZachK\ChocolateBoxesZachK\obj\Debug\ChocolateBoxesZachK.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\ChocolateBoxesZachK\ChocolateBoxesZachK\obj\Debug\ChocolateBoxesZachK.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\ChocolateBoxesZachK\ChocolateBoxesZachK\obj\Debug\ChocolateBoxesZachK.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\ChocolateBoxesZachK\ChocolateBoxesZachK\obj\Debug\ChocolateBoxesZachK.pdb

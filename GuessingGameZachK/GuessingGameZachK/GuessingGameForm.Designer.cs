@@ -107,7 +107,7 @@
             this.Controls.Add(this.picCheckmarkX);
             this.Controls.Add(this.lblGuessTheNumber);
             this.Name = "frmGuessingGame";
-            this.Text = "Guessing Game";
+            this.Text = "Random Number Game";
             ((System.ComponentModel.ISupportInitialize)(this.picCheckmarkX)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
