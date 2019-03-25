@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Zachary Kranabetter
+ * Created on: March 20th 2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #19 - Chocolate Boxes
+ * This program let's the user say how many boxes they sold and if they will get a prize, small prize, or an hounourable mention
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -29,7 +36,7 @@ namespace ChocolateBoxesZachK
                 lblPrize.Text = "You get a small Prize!";
 
             else
-                lblPrize.Text = "You get a honourable mention";
+                lblPrize.Text = "You get a honorable mention";
         }
     }
 }

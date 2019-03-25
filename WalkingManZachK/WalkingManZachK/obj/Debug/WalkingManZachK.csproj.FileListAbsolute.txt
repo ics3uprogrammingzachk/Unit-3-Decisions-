@@ -1,0 +1,9 @@
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\WalkingManZachK\WalkingManZachK\bin\Debug\WalkingManZachK.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\WalkingManZachK\WalkingManZachK\bin\Debug\WalkingManZachK.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\WalkingManZachK\WalkingManZachK\bin\Debug\WalkingManZachK.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\WalkingManZachK\WalkingManZachK\obj\Debug\WalkingManZachK.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\WalkingManZachK\WalkingManZachK\obj\Debug\WalkingManZachK.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\WalkingManZachK\WalkingManZachK\obj\Debug\WalkingManZachK.WalkingManForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\WalkingManZachK\WalkingManZachK\obj\Debug\WalkingManZachK.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\WalkingManZachK\WalkingManZachK\obj\Debug\WalkingManZachK.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\WalkingManZachK\WalkingManZachK\obj\Debug\WalkingManZachK.pdb

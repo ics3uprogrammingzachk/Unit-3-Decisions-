@@ -1,0 +1,19 @@
+C:\Users\Zach\ICS3U\FactorialDoWhileZach\FactorialDoWhileZach\bin\Debug\FactorialDoWhileZach.exe.config
+C:\Users\Zach\ICS3U\FactorialDoWhileZach\FactorialDoWhileZach\bin\Debug\FactorialDoWhileZach.exe
+C:\Users\Zach\ICS3U\FactorialDoWhileZach\FactorialDoWhileZach\bin\Debug\FactorialDoWhileZach.pdb
+C:\Users\Zach\ICS3U\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.csprojAssemblyReference.cache
+C:\Users\Zach\ICS3U\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.FactorialDoWhileForm.resources
+C:\Users\Zach\ICS3U\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.Properties.Resources.resources
+C:\Users\Zach\ICS3U\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.csproj.GenerateResource.cache
+C:\Users\Zach\ICS3U\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.csproj.CoreCompileInputs.cache
+C:\Users\Zach\ICS3U\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.exe
+C:\Users\Zach\ICS3U\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\FactorialDoWhileZach\FactorialDoWhileZach\bin\Debug\FactorialDoWhileZach.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\FactorialDoWhileZach\FactorialDoWhileZach\bin\Debug\FactorialDoWhileZach.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\FactorialDoWhileZach\FactorialDoWhileZach\bin\Debug\FactorialDoWhileZach.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.csprojResolveAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.FactorialDoWhileForm.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.csproj.GenerateResource.Cache
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\K, Zachary\Unit 3 (Decisions)\FactorialDoWhileZach\FactorialDoWhileZach\obj\Debug\FactorialDoWhileZach.pdb
