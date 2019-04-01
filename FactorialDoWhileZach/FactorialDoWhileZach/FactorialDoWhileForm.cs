@@ -56,6 +56,5 @@ namespace FactorialDoWhileZach
 
             lblAnswer.Text = txtInput.Text + "! = " + Convert.ToString(factorialAnswer);
         }
-
     }
 }
