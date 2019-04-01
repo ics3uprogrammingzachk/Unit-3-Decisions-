@@ -1,0 +1,10 @@
+C:\Users\Zach\ICS3U\PerfectSquaresWhileLoopZach\PerfectSquaresWhileLoopZach\bin\Debug\PerfectSquaresWhileLoopZach.exe.config
+C:\Users\Zach\ICS3U\PerfectSquaresWhileLoopZach\PerfectSquaresWhileLoopZach\bin\Debug\PerfectSquaresWhileLoopZach.exe
+C:\Users\Zach\ICS3U\PerfectSquaresWhileLoopZach\PerfectSquaresWhileLoopZach\bin\Debug\PerfectSquaresWhileLoopZach.pdb
+C:\Users\Zach\ICS3U\PerfectSquaresWhileLoopZach\PerfectSquaresWhileLoopZach\obj\Debug\PerfectSquaresWhileLoopZach.csprojAssemblyReference.cache
+C:\Users\Zach\ICS3U\PerfectSquaresWhileLoopZach\PerfectSquaresWhileLoopZach\obj\Debug\PerfectSquaresWhileLoopZach.PerfectSquaresWhileLoopForm.resources
+C:\Users\Zach\ICS3U\PerfectSquaresWhileLoopZach\PerfectSquaresWhileLoopZach\obj\Debug\PerfectSquaresWhileLoopZach.Properties.Resources.resources
+C:\Users\Zach\ICS3U\PerfectSquaresWhileLoopZach\PerfectSquaresWhileLoopZach\obj\Debug\PerfectSquaresWhileLoopZach.csproj.GenerateResource.cache
+C:\Users\Zach\ICS3U\PerfectSquaresWhileLoopZach\PerfectSquaresWhileLoopZach\obj\Debug\PerfectSquaresWhileLoopZach.csproj.CoreCompileInputs.cache
+C:\Users\Zach\ICS3U\PerfectSquaresWhileLoopZach\PerfectSquaresWhileLoopZach\obj\Debug\PerfectSquaresWhileLoopZach.exe
+C:\Users\Zach\ICS3U\PerfectSquaresWhileLoopZach\PerfectSquaresWhileLoopZach\obj\Debug\PerfectSquaresWhileLoopZach.pdb
