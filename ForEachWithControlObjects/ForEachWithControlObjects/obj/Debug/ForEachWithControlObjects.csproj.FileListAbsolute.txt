@@ -1,0 +1,10 @@
+C:\Users\Zach\ICS3U\ForEachWithControlObjects\ForEachWithControlObjects\bin\Debug\ForEachWithControlObjects.exe.config
+C:\Users\Zach\ICS3U\ForEachWithControlObjects\ForEachWithControlObjects\bin\Debug\ForEachWithControlObjects.exe
+C:\Users\Zach\ICS3U\ForEachWithControlObjects\ForEachWithControlObjects\bin\Debug\ForEachWithControlObjects.pdb
+C:\Users\Zach\ICS3U\ForEachWithControlObjects\ForEachWithControlObjects\obj\Debug\ForEachWithControlObjects.csprojAssemblyReference.cache
+C:\Users\Zach\ICS3U\ForEachWithControlObjects\ForEachWithControlObjects\obj\Debug\ForEachWithControlObjects.ForEachForm.resources
+C:\Users\Zach\ICS3U\ForEachWithControlObjects\ForEachWithControlObjects\obj\Debug\ForEachWithControlObjects.Properties.Resources.resources
+C:\Users\Zach\ICS3U\ForEachWithControlObjects\ForEachWithControlObjects\obj\Debug\ForEachWithControlObjects.csproj.GenerateResource.cache
+C:\Users\Zach\ICS3U\ForEachWithControlObjects\ForEachWithControlObjects\obj\Debug\ForEachWithControlObjects.csproj.CoreCompileInputs.cache
+C:\Users\Zach\ICS3U\ForEachWithControlObjects\ForEachWithControlObjects\obj\Debug\ForEachWithControlObjects.exe
+C:\Users\Zach\ICS3U\ForEachWithControlObjects\ForEachWithControlObjects\obj\Debug\ForEachWithControlObjects.pdb
